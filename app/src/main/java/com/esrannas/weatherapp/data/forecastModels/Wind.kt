@@ -1,4 +1,4 @@
-package com.esrannas.weatherapp.data.model.response
+package com.esrannas.weatherapp.data.forecastModels
 
 
 import com.google.gson.annotations.SerializedName
